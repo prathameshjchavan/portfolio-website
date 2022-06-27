@@ -3,7 +3,6 @@ import TypeWriter from "react-typewriter";
 
 const Header = ({ data }) => {
 	if (data) {
-		var name = data.name;
 		var occupation = data.occupation;
 		var description = data.description;
 		var country = data.address.country;
@@ -77,7 +76,7 @@ const Header = ({ data }) => {
 			<div className="row banner">
 				<div className="banner-text">
 					<h1 className="responsive-headline">
-						<TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
+						<TypeWriter typing={0.5}>I'm Prathamesh.</TypeWriter>
 					</h1>
 					<h3>
 						Based in {country}. <span>{occupation}</span>. {description}.
