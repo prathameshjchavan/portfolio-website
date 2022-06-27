@@ -1,0 +1,112 @@
+{
+	"main": {
+		"name": "Prathamesh",
+		"occupation": "Full-Stack Developer on Upwork",
+		"description": "I love to build amazing web-apps with React",
+		"image": "profilepic.jpg",
+		"bio": "Hi there! I am Prathamesh! I've been coding for over 5 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey, I realised my passion existed in helping others excel and pursue their business ideas.",
+		"contactmessage": "Get in touch",
+		"email": "prathamesh.chavan216@gmail.com",
+		"phone": "+91 8850767392",
+		"address": {
+			"city": "Mumbai",
+			"state": "Maharashtra",
+			"country": "India"
+		},
+		"website": "https://www.papareact.com/course",
+		"resumedownload": "https://drive.google.com/file/d/1AQcOoN62OtDxTPfF3GUXQFpdkQsyNVn8/view?usp=sharing",
+		"social": [
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/prathameshchavan216/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/prathameshjchavan",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "My Programming Language Proficiency",
+		"education": [
+			{
+				"school": "Mumbai University - India",
+				"degree": "Bachelor's Degree, Computer Science",
+				"graduated": "July 2024",
+				"description": ""
+			}
+		],
+		"work": [
+			{
+				"company": "Upwork",
+				"title": "Full-Stack Developer",
+				"years": "May 2017 - Present",
+				"description": "Specialize in creating high-converting websites that help your business grow. I've helped many businesses to generate thousands of dollars in revenue."
+			}
+		],
+		"skills": [
+			{
+				"name": "ReactJs",
+				"level": "100%"
+			},
+			{
+				"name": "NextJs",
+				"level": "90%"
+			},
+			{
+				"name": "Git",
+				"level": "70%"
+			},
+			{
+				"name": "JavaScript",
+				"level": "90%"
+			},
+			{
+				"name": "Web Development",
+				"level": "95%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Flipkart Clone (React.js, Tailwind CSS, Firebase, Stripe)",
+				"category": "",
+				"image": "flipkart.jpg",
+				"url": "https://flipkart-clone-5ec42.web.app/"
+			},
+			{
+				"title": "Reddit Clone (React.js, GraphQL, TailwindCSS)",
+				"category": "",
+				"image": "reddit.jpg",
+				"url": "https://reddit-clone-beta-six.vercel.app/"
+			},
+			{
+				"title": "Twitter Clone (React.js, Sanity CMS, Tailwind CSS)",
+				"category": "",
+				"image": "twitter.jpg",
+				"url": "https://twitter-clone-phi-gray.vercel.app/"
+			},
+			{
+				"title": "Amazon Clone - (React.js, Material-UI, Express, Stripe, Firebase)",
+				"category": "",
+				"image": "amazon.jpg",
+				"url": "https://clone-3-4cc8d.web.app/"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": "Extremely pleased with Mr Prathamesh Chavan as he has managed to achieve all the requirements that I have set including the deliverable of the project within a short amount of time.",
+				"user": "Eric Lou"
+			},
+			{
+				"text": "Very good to work with him. Very good knowledge in React, tailwind and related technology. Did the job extremely well .",
+				"user": "Rohan Jetha"
+			}
+		]
+	}
+}
