@@ -72,6 +72,12 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "Arc Development (Next.js, Material-UI, Firebase)",
+				"category": "",
+				"image": "arc-development.png",
+				"url": "https://arc-development-nextjs-nine.vercel.app/"
+			},
+			{
 				"title": "Flipkart Clone (React.js, Tailwind CSS, Firebase, Stripe)",
 				"category": "",
 				"image": "flipkart.jpg",
